@@ -1,0 +1,82 @@
+.navbar-nav .nav-link:focus
+{
+    background-color:rgb(220, 252, 252);
+}
+
+.navbar-nav .nav-link:active
+{
+    background-color:rgb(220, 252, 252);
+}
+.navbar-nav .nav-link:hover
+{
+    background-color:rgb(220, 252, 252);
+}
+
+/* .carousel
+{
+    background-image: url("images/header.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+    
+} */
+.custom-btn
+{
+    border: 1px solid white !important;
+}
+
+.custom-btn:hover
+{
+    background-color: white !important;
+    color: black !important;
+}
+
+.visit-item
+{
+    opacity: .6;
+}
+
+.visit-item:hover
+{
+    opacity: 1;
+}
+
+.offer-cta
+{
+    background-image: url("images/cta-1.png") ;
+    background-size: cover;
+    height: 350px;
+}
+
+.offering{
+	float: right;
+	color: #60c9eb;
+	text-align: center;
+	padding: 32px 0;
+}
+.percent{
+	font-style: italic;
+	font-size: 68px;
+}
+.percent span{
+	font-size: 117px;
+	font-weight: 700;
+	font-style: normal;
+}
+.FTour{
+	font-size: 30px;
+	font-weight: 200;
+	margin-top: -20px;
+}
+.price-btn{
+	background: #60c9eb !important;
+    color: #fff !important;
+    border-color: #60c9eb !important;
+    text-transform: capitalize;
+    margin: 20px;
+}
+.price-btn:hover{
+	color: #60c9eb !important;
+    background-color: #fff !important;
+    border-color: #60c9eb !important;
+}
+
